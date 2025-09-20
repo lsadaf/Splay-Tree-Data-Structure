@@ -64,6 +64,7 @@ Runtime performance of the Splay Tree when input values are drawn from a **unifo
 ### Gaussian Plot 
 Runtime performance of the Splay Tree when input values are drawn from a **normal (Gaussian) distribution** centered around 50 with standard deviation 25.  
 This tests performance when values are clustered instead of spread evenly.  
+
 ![photo1688420518](https://github.com/user-attachments/assets/8d92f17b-7315-4a93-8589-53f326513ee7)
 
 Both graphs demonstrate the **amortized O(log n)** behavior of splay tree operations, showing near-linear growth in runtime as the number of inputs increases.
